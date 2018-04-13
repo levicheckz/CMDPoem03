@@ -4,5 +4,4 @@ Our version control we can automate
 It also acts as a showcase 
 for a clean and well documented codebase
 
-More poetry about how useful Github is
-To showcasing your projects and yourself as a coder (not just for code!!)
+
